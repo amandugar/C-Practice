@@ -1,0 +1,1 @@
+       cout << sum << endl <<arr[i][4] << endl;
